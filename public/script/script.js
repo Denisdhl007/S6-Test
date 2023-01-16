@@ -5,7 +5,6 @@ function questionnaire1() {
 
 
 let submitButton = document.getElementById("mySubmit");
-let inputValue = document.getElementById("questionnaire2_1").value;
 
 submitButton.addEventListener("click", function() {
   let inputValue = document.getElementById("questionnaire2_1").value;
